@@ -38,7 +38,7 @@ Here’s how the models performed on the dataset:
 - **Most Frequent Words** in Positive and Negative Reviews
 - **Word Cloud Representation**: Visualization of the most common words across the entire dataset for easier interpretation of word frequency and trends.
 
-![Word Cloud of Dataset](path-to-your-wordcloud-image.png) 
+
 
 ## 💡 Conclusion
 This project demonstrates the power of machine learning in sentiment analysis and shows the importance of **model selection** and **hyperparameter tuning**. By understanding which model works best for specific tasks, businesses can:
@@ -47,11 +47,6 @@ This project demonstrates the power of machine learning in sentiment analysis an
   
 Understanding sentiment analysis is a valuable tool for data scientists, marketers, and business leaders alike. The results from this project show that even simple models like Logistic Regression can be highly effective with the right data.
 
-## 🗨️ Let's Discuss!
-- What are your thoughts on sentiment analysis using machine learning?
-- Have you worked on any similar projects? Share your insights and experiences in the comments or open an issue on this repo.
-
----
 
 ### 🚀 Real-World Impact
 - **E-Commerce**: Sentiment analysis can automate review classification, helping businesses identify common pain points or positive trends in their products.
@@ -69,28 +64,11 @@ Understanding sentiment analysis is a valuable tool for data scientists, markete
 
 ---
 
-## 📂 Directory Structure
-- **data/**: Contains the dataset used for analysis
-  - `reviews.csv`
-- **notebooks/**: Jupyter notebooks with code for training and evaluating the models
-  - `logistic_regression.ipynb`
-  - `naive_bayes.ipynb`
-  - `svm.ipynb`
-  - `lstm.ipynb`
-- **visualizations/**: Contains generated visualizations and word clouds
-  - `positive_words_wordcloud.png`
-  - `negative_words_wordcloud.png`
-
 ## 📈 Key Metrics (Tracked during model evaluation)
 - Accuracy
 - Precision
 - Recall
 - F1-Score
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
